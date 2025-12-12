@@ -1,0 +1,56 @@
+[
+  {
+    "id": "anglesey",
+    "name": "Anglesey",
+    "type": "Summerhouse",
+    "sizeRangeMeters": "2.50m x 1.90m to 5.65m x 2.80m",
+    "sizeRangeFeet": "11ft 2in x 6ft 3in to 9ft 2in x 9ft 2in",
+    "availableColours": ["White", "Grey", "Black", "Golden Oak", "Irish Oak", "Chartwell Green"],
+    "heroImage": "products/anglesey/hero.jpg"
+  },
+  {
+    "id": "madison",
+    "name": "Madison",
+    "type": "Studio",
+    "sizeRangeMeters": "1.90m x 1.90m to 3.10m x 3.10m",
+    "sizeRangeFeet": "10ft 2in x 10ft 2in to 9ft 2in x 9ft 2in",
+    "availableColours": ["White", "Black", "Golden Oak", "Grey", "Chartwell Green", "Irish Oak"],
+    "heroImage": "products/madison/hero.jpg"
+  },
+  {
+    "id": "broadway",
+    "name": "Broadway",
+    "type": "Garden Office",
+    "sizeRangeMeters": "2.80m x 1.90m to 5.65m x 2.80m",
+    "sizeRangeFeet": "110.2in x 74.8in to 222.4in x 110.2in",
+    "availableColours": ["White", "Black", "Golden Oak", "Grey", "Chartwell Green", "Irish Oak"],
+    "heroImage": "products/broadway/hero.jpg"
+  },
+  {
+    "id": "wiltshire",
+    "name": "Wiltshire",
+    "type": "Orangerie",
+    "sizeRangeMeters": "4.50m x 3.00m",
+    "sizeRangeFeet": "14ft 9in x 9ft 10in",
+    "availableColours": ["White", "Grey", "Black", "Golden Oak", "Rosewood", "Chartwell Green", "Irish Oak"],
+    "heroImage": "products/wiltshire/hero.jpg"
+  },
+  {
+    "id": "torsa",
+    "name": "Torsa",
+    "type": "Greenhouse",
+    "sizeRangeMeters": "2.40m x 3.20m",
+    "sizeRangeFeet": "7ft 11in x 10ft 6in",
+    "availableColours": ["White", "Black", "Golden Oak", "Grey", "Rosewood"],
+    "heroImage": "products/torsa/hero.jpg"
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "type": "Pavilion",
+    "sizeRangeMeters": "2.89m x 2.89m to 4.34m x 4.34m",
+    "sizeRangeFeet": "11ft 1in x 11ft 1in to 9ft 5in x 9ft 5in",
+    "availableColours": ["White", "Black", "Golden Oak", "Grey", "Rosewood", "Chartwell Green", "Irish Oak"],
+    "heroImage": "products/victoria/hero.jpg"
+  }
+]
