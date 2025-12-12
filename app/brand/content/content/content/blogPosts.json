@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "planning-permission-garden-rooms-guide",
+    "title": "A Guide to Planning Permission for Garden Rooms: Everything You Need to Know",
+    "author": "Justin Williams",
+    "date": "2023-02-01",
+    "readTimeMinutes": 2,
+    "excerpt": "An overview of when you do and don’t need planning permission for a garden room, plus how permitted development rules apply.",
+    "heroImage": "blog/planning-permission/hero.jpg",
+    "bodyMarkdownPath": "blog/planning-permission.md",
+    "tags": ["Planning", "Garden Rooms"],
+    "isFeatured": true
+  },
+  {
+    "slug": "transform-your-garden-into-professional-workspace",
+    "title": "Transform Your Garden into a Professional Workspace with our Nordic Garden Office Buildings",
+    "author": "Justin Williams",
+    "date": "2023-01-01",
+    "readTimeMinutes": 2,
+    "excerpt": "How Nordic garden offices create quiet, insulated workspaces for calls, meetings and focused work at home.",
+    "heroImage": "blog/garden-office-workspace/hero.jpg",
+    "bodyMarkdownPath": "blog/garden-office-workspace.md",
+    "tags": ["Garden Office", "Working From Home"],
+    "isFeatured": true
+  },
+  {
+    "slug": "does-a-garden-studio-add-value",
+    "title": "Does a Garden Studio Add Value?",
+    "author": "Justin Williams",
+    "date": "2022-12-01",
+    "readTimeMinutes": 6,
+    "excerpt": "Why a well-designed, properly insulated garden studio can be one of the best ways to add value and usable space to your home.",
+    "heroImage": "blog/garden-studio-value/hero.jpg",
+    "bodyMarkdownPath": "blog/garden-studio-value.md",
+    "tags": ["Garden Rooms", "Property Value"],
+    "isFeatured": false
+  }
+]
